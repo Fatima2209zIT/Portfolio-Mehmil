@@ -45,7 +45,7 @@ export const navItems = [
       title: "Frontend Developer Intern - The Visual Chess",
       desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
       className: "md:col-span-2",
-      thumbnail: "/offer.jpeg",
+      thumbnail: "/Offer.jpeg",
     },
     {
       id: 2,
