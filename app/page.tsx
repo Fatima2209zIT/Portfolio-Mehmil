@@ -8,7 +8,7 @@ import Experience from "../components/Experience";
 import Education from "../components/Education";
 import RecentProjects from "../components/RecentProjects";
 import { FloatingNav } from "../components/ui/FloatingNavbar";
-import Skills from "../components/Skills/Skills";
+import Skills from "../components/Skills/Skills3D";
 
 const Home = () => {
   return (

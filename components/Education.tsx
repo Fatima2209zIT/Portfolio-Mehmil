@@ -7,7 +7,7 @@ const Education = () => {
   return (
     <div className="py-20 w-full" id="education">
       <h1 className="heading">
-        My <span className="text-purple">Education</span>
+        MY <span className="text-purple">EDUCATION</span>
       </h1>
 
       <div className="w-full mt-12 grid lg:grid-cols-4 grid-cols-1 gap-10">

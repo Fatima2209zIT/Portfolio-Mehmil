@@ -1,4 +1,4 @@
-import { FaInstagram, FaLinkedin, FaWhatsapp } from "react-icons/fa"
+import { FaGithub, FaInstagram, FaLinkedin, FaWhatsapp } from "react-icons/fa"
 export const navItems = [
     { name: "About", link: "#about" },
     { name: "Projects", link: "#projects" },
@@ -91,8 +91,8 @@ export const navItems = [
     },
     {
       id: 3,
-      icon: FaWhatsapp,
-      link: "https://wa.me/03323882360", 
+      icon: FaGithub,
+      link: "https://github.com/Fatima2209zIT", 
     },
   ];
   export const skills = [

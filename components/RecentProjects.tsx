@@ -10,8 +10,8 @@ const RecentProjects = () => {
     
     <div className="py-20" id="projects"> 
       <h1 className="heading">
-        A small selection of{" "}
-        <span className="text-purple">recent projects</span>
+        A SMALL SELECTION OF {" "}
+        <span className="text-purple">RECENT PROJECTS</span>
       </h1>
       <div className="flex flex-wrap items-center justify-center p-4 gap-16 mt-10">
         {projects.map((item) => (
@@ -20,6 +20,7 @@ const RecentProjects = () => {
             key={item.id}
           >
             <PinContainer
+              className="py-3"
               title="Check Live Site"
               href="https://www.linkedin.com/in/mehmil-zeeshan-b340832b5/"
             >
