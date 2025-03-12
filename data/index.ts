@@ -95,41 +95,4 @@ export const navItems = [
       link: "https://github.com/Fatima2209zIT", 
     },
   ];
-  export const skills = [
-    {
-      id: 1,
-      name: "JavaScript",
-      icon: "/javascript.png",
-    },
-    {
-      id: 2,
-      name: "TypeScript",
-      icon: "/typescript.png",
-    },
-    {
-      id: 3,
-      name: "Tailwind CSS",
-      icon: "/tailwind.png",
-    },
-    {
-      id: 4,
-      name: "Next.js",
-      icon: "/nextjs.png",
-    },
-    {
-      id: 5,
-      name: "Python",
-      icon: "/python.png",
-    },
-    {
-      id: 6,
-      name: "HTML",
-      icon: "/html.png",
-    },
-    {
-      id: 7,
-      name: "CSS",
-      icon: "/css.webp",
-    },
-  ];
-  
+
